@@ -1,6 +1,6 @@
 # Export Jupyter notebooks for publishing
 
-This repository is to demonstrate how we can publish Jupyter notebooks in a GitHub- or web-friendly formats.
+This repository is to demonstrate how we can publish Jupyter notebooks in a web-friendly formats.
 
 ## Command line
 
@@ -23,7 +23,3 @@ $ ~/Anaconda3/python.exe -m jupyter nbconvert --to html notebook/Notebook.ipynb 
 - Outputs for sample notebook:
   - Markdown: [markdown_output](/markdown_output)
   - HTML: [markdown_output](/html_output)
-
-## Why?
-
-Jupyter notebooks are essentially JSON documents which makes them difficult to display in user-friendly way.
