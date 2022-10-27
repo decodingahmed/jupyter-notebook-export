@@ -1,8 +1,8 @@
-# Export Jupyter notebooks for publishing
+# Export Jupyter notebooks for publishing 🚀
 
 This repository is to demonstrate how we can publish Jupyter notebooks in a web-friendly formats.
 
-## Command line
+## Command line 🧑‍💻
 
 Export as markdown:
 ```bash
@@ -16,10 +16,11 @@ $ ~/Anaconda3/python.exe -m jupyter nbconvert --to html notebook/Notebook.ipynb 
 
 ## What's in this repository?
 
-- A sample Jupyter notebook containing: see [notebook](/notebook) folder
+A sample Jupyter notebook containing: see [notebook](/notebook/Notebook.ipynb)
   - Console, DataFrame and Series outputs
   - Graphs
   - Formulas
-- Outputs for sample notebook:
+
+Outputs for sample notebook:
   - Markdown: [markdown_output](/markdown_output)
   - HTML: [markdown_output](/html_output)
