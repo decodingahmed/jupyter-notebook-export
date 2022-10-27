@@ -1,6 +1,6 @@
 ## Publishing Jupyter notebooks
 
-Sometimes we might want to publish and present our Data Science projects on GitHub. The Anaconda command line utility provides a quick way to convert a notebook into Markdown using the following command:
+Sometimes we might want to publish and present our Data Science projects. The Anaconda command line utility provides a quick way to convert a notebook into Markdown using the following command:
 
 ```bash
    > jupyter nbconvert --to markdown path/to/notebook.ipynb --output-dir path/to/outputdirectory
