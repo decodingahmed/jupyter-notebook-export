@@ -21,6 +21,6 @@ A sample Jupyter notebook containing: see [notebook](/notebook/Notebook.ipynb)
   - Graphs
   - Formulas
 
-Outputs for sample notebook:
+Outputs of the sample notebook in the following formats:
   - Markdown: [markdown_output](/markdown_output)
   - HTML: [markdown_output](/html_output)
